@@ -1,4 +1,4 @@
-# -play_music_assistant.py
+# play_music_assistant.py
 # 🎙️ Voice Assistant in Python
 
 This is a simple voice assistant made with Python. It listens to your command, and when you say **"activate"**, it asks what song you want to hear and plays it on YouTube.
